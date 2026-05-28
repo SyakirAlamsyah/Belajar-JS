@@ -19,3 +19,4 @@ function maxmin(arr){
 }
 
 console.log(maxmin([10, 3, 5, 12, 7]))
+console.log(maxmin([1, 3, 5, 7, 13]))
