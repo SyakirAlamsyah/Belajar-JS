@@ -6,6 +6,6 @@ Since this is the first repo i made with this title (Learning Doc), so maybe I w
 ### Why?
 Idk actually (lol). Jokes aside, I want to try to be MORE consistent w what am I doing or learning and also I just want to store the progress in cloud service so... yah that's it.
 
-btw if u find something interesting in these repositories want and to comment, give suggestions, criticism, hate speech, or whatever it is feel free to contact me through my [email] (syakiralamsyah49@gmail.com) or discord @deporaja. You can also see my socials through my [lynk.id] (https://lynk.id/sakir.al)
+btw if u find something interesting in these repositories want and to comment, give suggestions, criticism, hate speech, or whatever it is feel free to contact me through my [email](syakiralamsyah49@gmail.com) or discord @deporaja. You can also see my socials through my [lynk.id](https://lynk.id/sakir.al)
 
 yo, if u actually reading allat tysm lmao.
